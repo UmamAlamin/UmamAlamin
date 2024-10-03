@@ -6,7 +6,6 @@
 - 💬 Ask me about **machine learning**
 
 - 📫 How to reach me **mohkhoirulumamalamin22@gmail.com**
-<h3 align="center">In rush uploading all my unvaluable project from local:(</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
