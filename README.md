@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Umam Al Amin</h1>
-<h3 align="center">Just an ordinary student with a growing passion for Data</h3>
+<h1 align="center">Hi 👋</h1>
+
+- 🌱 Just an ordinary student with a growing passion for Data
+- 🌱 Currently studying *ML*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamalamin&label=Profile%20views&color=0e75b6&style=flat" alt="umamalamin" /> </p>
-
-- 💬 Ask me about **machine learning**
-
-- 📫 How to reach me **mohkhoirulumamalamin22@gmail.com**
 <p align="left">
 </p>
 
