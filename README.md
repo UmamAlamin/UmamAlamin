@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 - 🌱 Just an ordinary student with a growing passion for Data
-- 🌱 Currently studying *ML*
+- 🌱 Currently studying *Machine Learning and Deep Learning*
 - 🌱 work on UBUNTU environment
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamalamin&label=Profile%20views&color=0e75b6&style=flat" alt="umamalamin" /> </p>
