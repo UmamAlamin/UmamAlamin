@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Newbiee Here 👋</h1>
 
 - 🌱 Just an ordinary student with a growing passion for Data
 - 🌱 Currently studying *Machine Learning and Deep Learning*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamalamin&label=Profile%20views&color=0e75b6&style=flat" alt="umamalamin" /> </p>
 <p align="left">
 </p>
