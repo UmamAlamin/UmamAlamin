@@ -2,9 +2,6 @@
 
 - 🌱 Just an ordinary student with a growing passion for Data
 - 🌱 Currently studying *Machine Learning and Deep Learning*
-- 🌱 work on UBUNTU environment
-- 🌱 solving ml papers : an initiative where i try to solve 1 research paper every week
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamalamin&label=Profile%20views&color=0e75b6&style=flat" alt="umamalamin" /> </p>
 <p align="left">
 </p>
